@@ -1,6 +1,7 @@
+using FizzBuzz;
 using NUnit.Framework;
 using System.Collections.Generic;
-using FizzBuzz;
+
 
 namespace FizzBuzzTester
 {
